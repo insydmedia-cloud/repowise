@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "repowise": {
+      "source": "partychen/repowise",
+      "sourceType": "github",
+      "skillPath": ".github/skills/repowise/SKILL.md",
+      "computedHash": "22b08636660f9e106346b38d29c23e42058d46ce7018275adcaa44c321e4b1ae"
+    }
+  }
+}
