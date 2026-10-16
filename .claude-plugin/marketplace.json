@@ -1,0 +1,13 @@
+{
+  "name": "insydmedia-skills",
+  "owner": {
+    "name": "insydmedia"
+  },
+  "plugins": [
+    {
+      "name": "insydmedia-skills",
+      "source": "./",
+      "description": "Biblioteca central de skills do Claude da insydmedia (repowise e as próximas)."
+    }
+  ]
+}

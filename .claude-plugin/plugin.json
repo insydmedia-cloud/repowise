@@ -1,0 +1,8 @@
+{
+  "name": "insydmedia-skills",
+  "description": "Biblioteca central de skills do Claude da insydmedia (repowise e as próximas).",
+  "author": {
+    "name": "insydmedia"
+  },
+  "repository": "https://github.com/insydmedia-cloud/repowise"
+}
